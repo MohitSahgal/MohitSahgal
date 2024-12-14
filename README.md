@@ -1,4 +1,4 @@
-# Hi there, I'm Mohi Sahgal 👋
+# Hi there, I'm Mohit Sahgal 👋
 
 I'm an AI Engineer passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **IoT** (Internet of Things). I specialize in building intelligent systems, natural language processing models, and integrating AI with IoT devices.
 
@@ -6,7 +6,6 @@ I'm an AI Engineer passionate about **Artificial Intelligence**, **Machine Learn
 - 🔭 I’m currently working on **AI-driven applications**, **NLP (Natural Language Processing)** models, and **IoT systems**.
 - 🌱 I’m constantly learning new techniques in **Reinforcement Learning**, **AI Ethics**, and **AI-powered IoT solutions**.
 - 👯 I collaborate with cross-functional teams to build innovative AI solutions with cutting-edge technologies like **Langchain** and **Hugging Face**.
-- 📝 I write about AI and IoT technologies on [Medium](https://medium.com/@yourname).
 - ⚡ Fun fact: I'm also passionate about using **AI for Social Good** and empowering smart devices with AI.
 
 ## 💻 Skills & Technologies
@@ -23,14 +22,12 @@ I'm an AI Engineer passionate about **Artificial Intelligence**, **Machine Learn
 
 ## 🔧 Projects
 Here are a few of my open-source AI and IoT projects:
-- **[Typist](https://github.com/yourusername/ai-chatbot):** A Webapp using **NLP** with **Langchain** to generate personalised post on different topics. 
-- **[Khabri-Bot](https://github.com/yourusername/langchain-search):** A custom search engine built with **Langchain** for knowledge retrieval.
-- **[IoT Smart Home System](https://github.com/yourusername/iot-smart-home):** An **IoT** project that integrates AI with smart devices like lights and sensors using **Raspberry Pi**.
-- **[AI-Powered Image Classifier](https://github.com/yourusername/image-classifier):** A **deep learning** model built with **TensorFlow** for classifying images.
-- **[Reinforcement Learning Agent](https://github.com/yourusername/reinforcement-learning-agent):** A project based on **RL** to solve a game.
+- **[Typist](https://github.com/MohitSahgal/AIP/tree/main/Typist):** A Webapp using **NLP** with **Langchain** to generate personalised post on different topics. 
+- **[Khabri-Bot](https://github.com/MohitSahgal/AIP/tree/main/Khabri_Bot):** A custom search engine built with **Langchain** for knowledge retrieval.
+- **[Proxy](https://github.com/MohitSahgal/AIP/tree/main/Proxy):** A **Computer Vision** project that integrates Deep Learning for Face Recognition and Taking Attendance in Real-Time.
 
 ## 🌐 Find Me Online
-- 📫 Email me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Email me: [sahgal.saahb@gmail.com](mailto:sahgal.saahb@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
 - 🌍 Website/Blog: [yourwebsite.com](https://yourwebsite.com)
