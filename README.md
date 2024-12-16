@@ -28,10 +28,7 @@ Here are a few of my open-source AI and IoT projects:
 
 ## 🌐 Find Me Online
 - 📫 Email me: [sahgal.saahb@gmail.com](mailto:sahgal.saahb@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
 - 🌍 Website/Blog: [yourwebsite.com](https://yourwebsite.com)
-- 📘 Medium: [@yourname](https://medium.com/@yourname)
 
 ## 🛠️ Tools I Use
 - **Data Preprocessing:** Pandas, NumPy
